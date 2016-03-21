@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MKOI</string>
+    <string name="generating">Generating...</string>
+    <string name="p_sample">2305843009213693951</string>
+    <string name="q_sample">6643838879</string>
+    <string name="seed_sample">2753</string>
+</resources>
